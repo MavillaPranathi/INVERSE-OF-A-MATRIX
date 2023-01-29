@@ -15,6 +15,9 @@ store inverse function in result and print result
 program is ended
 ## Program:
 ```
+Developed by:M.PRANATHI
+Refrence number:22005710
+
 import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 result=np.linalg.inv(a)
